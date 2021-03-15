@@ -1,0 +1,23 @@
+.homepage{
+    display: grid;
+    place-items: center;
+    background-color: #a0a198;
+    height: 100vh;
+}
+.homepage_body{
+    display: flex;
+    flex-direction: column;;
+    background-color: #ededed;
+    height: 90vh;
+    width: 90vw;
+    box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.7);
+}
+
+nav{
+    background-color: rgb(109, 32, 251);
+    height: 10vh;
+}
+.table{
+    height: 100%;
+    width: 100%;
+}
